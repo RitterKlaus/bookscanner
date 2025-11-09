@@ -19,5 +19,9 @@ Daher habe ich ISBN**DB** ausprobiert. Die ersten 7 Tage sind kostenlos.
 
 Das Python-Skript `get_isbn_by_batch.py` kann benutzt werden, um den API-Zugriff mit einer Liste von ISBNs zu testen.
 
+# Screenshot
+
+![Screenshot der fertigen Anwendung](/screenshot.png)
+
 __Info:__
 Erstellt mit Hilfe des KI-Assistenten Github Copilot und Claude Sonnet 3.5 * 0.9x
